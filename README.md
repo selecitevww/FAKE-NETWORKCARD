@@ -1,3 +1,3 @@
 Windows 11
 cmd.exe
-# import reg net.reg
+# reg import net.reg
